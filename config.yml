@@ -1,0 +1,31 @@
+baseURL: ''
+languageCode: 'en-us'
+title: 'My New Hugo Site'
+theme: 'danto'
+
+params:
+  author: "Your Name"
+  description: "A brief description of your Hugo site"
+  githubRepo: "https://github.com/yourusername/your-repo"
+  showReadingTime: true
+  postSummary: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Necessary for TinaCMS
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+outputFormats:
+  TOML:
+    mediaType: "application/toml"
+    isPlainText: true
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "TOML"
