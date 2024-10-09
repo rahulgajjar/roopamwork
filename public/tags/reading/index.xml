@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reading on My New Hugo Site</title>
+    <link>/tags/reading/</link>
+    <description>Recent content in reading on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Oct 2022 18:05:55 +0300</lastBuildDate>
+    <atom:link href="/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>14 Reasons Why Reading Is Good for Your Health</title>
+      <link>/posts/14-reasons-why-reading-is-good-for-your-health/</link>
+      <pubDate>Sat, 08 Oct 2022 18:05:55 +0300</pubDate>
+      <guid>/posts/14-reasons-why-reading-is-good-for-your-health/</guid>
+      <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor.&#xA;Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</description>
+    </item>
+  </channel>
+</rss>

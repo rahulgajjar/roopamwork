@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2024 18:30:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hey whats is up</title>
+      <link>/tags/hey-whats-is-up/</link>
+      <pubDate>Mon, 07 Oct 2024 18:30:00 +0000</pubDate>
+      <guid>/tags/hey-whats-is-up/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hi, what, is, that</title>
+      <link>/tags/hi-what-is-that/</link>
+      <pubDate>Mon, 07 Oct 2024 18:30:00 +0000</pubDate>
+      <guid>/tags/hi-what-is-that/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>study</title>
+      <link>/tags/study/</link>
+      <pubDate>Wed, 18 Jan 2023 15:01:35 +0300</pubDate>
+      <guid>/tags/study/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>business</title>
+      <link>/tags/business/</link>
+      <pubDate>Mon, 16 Jan 2023 15:01:35 +0300</pubDate>
+      <guid>/tags/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>lifestyle</title>
+      <link>/tags/lifestyle/</link>
+      <pubDate>Sat, 14 Jan 2023 15:01:35 +0300</pubDate>
+      <guid>/tags/lifestyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>shopping</title>
+      <link>/tags/shopping/</link>
+      <pubDate>Mon, 09 Jan 2023 15:01:35 +0300</pubDate>
+      <guid>/tags/shopping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>food</title>
+      <link>/tags/food/</link>
+      <pubDate>Thu, 05 Jan 2023 15:01:35 +0300</pubDate>
+      <guid>/tags/food/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>people</title>
+      <link>/tags/people/</link>
+      <pubDate>Wed, 21 Dec 2022 15:01:35 +0300</pubDate>
+      <guid>/tags/people/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>news</title>
+      <link>/tags/news/</link>
+      <pubDate>Sun, 18 Dec 2022 15:01:35 +0300</pubDate>
+      <guid>/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>reading</title>
+      <link>/tags/reading/</link>
+      <pubDate>Sat, 08 Oct 2022 18:05:55 +0300</pubDate>
+      <guid>/tags/reading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>science</title>
+      <link>/tags/science/</link>
+      <pubDate>Fri, 07 Oct 2022 15:01:35 +0300</pubDate>
+      <guid>/tags/science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sport</title>
+      <link>/tags/sport/</link>
+      <pubDate>Mon, 20 Jun 2022 15:01:35 +0300</pubDate>
+      <guid>/tags/sport/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
